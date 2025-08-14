@@ -1,0 +1,25 @@
+[33mcommit 6866d938af0378031be8382e74ae523f30de20e2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Waldey <waldeypereira@gmail.com>
+Date:   Thu Aug 14 11:53:39 2025 +0200
+
+    Cria uma entidade no banco de dados a partir do HunterModel
+
+[33mcommit acbcf39b2c6aa9d06168679e6386f5f8587c5745[m
+Author: Waldey Rocha Pereira <waldeypereira@gmail.com>
+Date:   Thu Aug 14 11:18:48 2025 +0200
+
+    Delete src/main/resources/application.properties
+    
+    modificado
+
+[33mcommit e1766547cd1b2757954f41024570fff160867f92[m
+Author: Waldey <waldeypereira@gmail.com>
+Date:   Thu Aug 14 11:17:17 2025 +0200
+
+    Criado a huntercontroller
+
+[33mcommit ddd4023eb44442cb7888d55cd58996b325cd3331[m
+Author: Waldey <waldeypereira@gmail.com>
+Date:   Thu Aug 7 17:55:28 2025 +0200
+
+    first commit
