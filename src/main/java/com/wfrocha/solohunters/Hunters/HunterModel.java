@@ -20,10 +20,18 @@ public class HunterModel {
 
     @Column(name = "id_hunter", nullable = false)
     private Long id;
+
     private String name;
+
+    @Column(unique = true)
+    private String email;
+
     private int age;
+
     private String nationality;
+
     private String rank;
+
     private String guild;
 
     // Relacionamento com QuestModel muitos para um (um caçador pode ter várias missões, mas cada missão pertence a um único caçador)
