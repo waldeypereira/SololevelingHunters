@@ -10,4 +10,5 @@ public class SoloLevelingHuntersApplication {
 		SpringApplication.run(SoloLevelingHuntersApplication.class, args);
 	}
 
+
 }
